@@ -1,0 +1,9 @@
+version: "3"
+services:
+        conan_episodes:
+                build: ..
+                container_name: conan_episodes
+                ports:
+                    - 65432:65432
+                restart: always
+
