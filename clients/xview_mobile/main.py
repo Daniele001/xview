@@ -9,7 +9,7 @@ from file_function import *
 
 LIST = "files/list.txt"
 EPISODE = "files/episode.txt"
-URL = 'https://animeunity.it/anime/743-detective-conan/17780'
+URL = ''
 
 file_size = os.path.getsize(LIST)
 if file_size == 0:

@@ -2,7 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-URL = 'https://animeunity.it/anime/743-detective-conan'
+URL = ''
 LIST = "files/list.txt"
 
 

@@ -1,7 +1,7 @@
 import socket
 from episode_function import read_episode_number, set_episode_number
 
-HOST = '192.168.0.50'
+HOST = ''
 PORT = 65432
 
 
